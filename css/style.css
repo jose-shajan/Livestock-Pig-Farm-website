@@ -123,8 +123,6 @@ Header
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
 }
 
-}
-
 
 
 
@@ -452,7 +450,7 @@ Contact Section
   font-size: 22px;
   line-height: 34px;
   font-weight: bold;
-  color: black
+  color: black;
   text-transform: uppercase;
   display: block;
 }
